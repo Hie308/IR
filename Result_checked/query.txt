@@ -1,0 +1,30 @@
+1	what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft .
+2	what are the structural and aeroelastic problems associated with flight of high speed aircraft .
+3	what problems of heat conduction in composite slabs have been solved so far .
+4	can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium .
+5	what chemical kinetic system is applicable to hypersonic aerodynamic problems .
+6	what theoretical and experimental guides do we have as to turbulent couette flow behaviour .
+7	is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack .
+8	what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack.
+9	papers on internal /slip flow/ heat transfer studies .
+10	are real-gas transport properties for air available over a wide range of enthalpies and densities .
+11	is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation .
+12	how can the aerodynamic performance of channel flow ground effect machines be calculated .
+13	what is the basic mechanism of the transonic aileron buzz .
+14	papers on shock-sound wave interaction .
+15	material properties of photoelastic materials .
+16	can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer .
+17	can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem .
+18	are experimental pressure distributions on bodies of revolution at angle of attack available .
+19	does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results .
+20	has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions .
+21	why does the compressibility transformation fail to correlate the high speed data for helium and air .
+22	did anyone else discover that the turbulent skin friction is not over sensitive to the nature of the variation of the viscosity with temperature .
+23	what progress has been made in research on unsteady aerodynamics .
+24	what are the factors which influence the time required to invert large structural matrices .
+25	does a practical flow follow the theoretical concepts for the interaction between adjacent blade rows of a supersonic cascade .
+26	what is a single approximate formula for the displacement thickness of a laminar boundary layer in compressible flow on a flat plate .
+27	how is the design of ring or part ring wings by linear theory affected by thickness .
+28	what application has the linear theory design of curved wings .
+29	what is the effect of cross sectional shape on the flow over simple delta wings with sharp leading edges .
+30	papers on flow visualization on slender conical wings .

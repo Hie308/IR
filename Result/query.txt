@@ -1,0 +1,2 @@
+1	what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft .
+2	what are the structural and aeroelastic problems associated with flight of high speed aircraft .
